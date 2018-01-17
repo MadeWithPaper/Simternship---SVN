@@ -1,0 +1,4 @@
+Functional Requirements:
+1. The system shall award user network points, when the user meets or communicates with a recruiter.
+2. The system shall end the game, when the user's energy bar level reaches zero.
+3. The system should allow the user to change in game volume at any screen of the game.

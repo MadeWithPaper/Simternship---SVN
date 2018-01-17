@@ -1,0 +1,4 @@
+User Stories:
+1. As a user, I would like for the game to properly end when my energy level is zero.
+2. As a user, I would like to choose my game difficulty before beginning the game.
+3. As a user, I would like to meet with recruiters to increase my networks bar.
