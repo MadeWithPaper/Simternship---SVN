@@ -1,0 +1,6 @@
+Jacky Huang
+Team 6 - Simternship
+
+FR #1 When a user is logged in, the system shall provide a mechanism for the user to check their resources.
+FR #2 When user logs out of the game, the game progress shall be saved to the system's local data base.
+FR #3 When the game concludes, the system shall calculate a final score incroporating the user's offer salary, energy remaining, and networking score.

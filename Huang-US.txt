@@ -1,0 +1,6 @@
+Jacky Huang
+Team 6 - Simternship
+
+US #1 As a user I would like to be able to log out of the application so I can keep my information safe.
+US #2 As a user, I would like to view my current status (i.e. Energy, Network) on every page once i log in.
+US #3 As a user I would like to setup and login to my account/profile, so I can keep track of my own progress.
