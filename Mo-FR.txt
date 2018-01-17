@@ -1,0 +1,3 @@
+1. The system should keep track of answered questions of each player and pull up a new question from database each time when user choose to answer a prep question.
+2. The system should show advice for the prep question after it is answered by the user.
+3. The system should allow users to review prep questions that they've answered.
