@@ -1,0 +1,6 @@
+Joel Dentici
+Team 6 - Simternship
+
+FR #1 The system shall have a leaderboard that tracks the top scoring users.
+FR #2 The system pulls different difficulty interview questions from the database based off the difficulty the user chose at the start of the game.
+FR #3 The system should allow users to choose the difficulty levels before they start to answer prep questions.

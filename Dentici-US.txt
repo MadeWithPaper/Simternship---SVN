@@ -1,0 +1,6 @@
+Joel Dentici
+Team 6 - Simternship
+
+US #1 As a user I want to be able to earn interviews when talking to career booth recruiters so that I can gain networking points.
+US #2 As a user, I want to be able to decide whether or not to accept offers so I can decide when the game is over.
+US #3 As a user, I want to see how my score compares to other users so I can feel proud.
